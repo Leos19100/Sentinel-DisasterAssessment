@@ -186,10 +186,6 @@ Further caveats carried across notebooks: monthly dB averaging on Sentinel-1 rat
 - `National_Flood_Extent_By_State.csv`, `National_Flood_And_Population_By_LGA.csv` — the full state- and LGA-level national tables behind the [Key results](#key-results) numbers above
 - Every notebook's own closing "Summary of Exported Outputs" cell lists exactly what that run wrote, with file sizes
 
-## Methodology references
-
-The notebooks implement a set of French-language methodology briefs (not included in this repository), referenced inline by section number (e.g. "§5c of the methodology") so any given cell can be traced back to the specific requirement it implements: two briefs on integrating the OSM road network and a population layer into a disaster-impact analysis, three on Sentinel-1/Sentinel-2(/CHIRPS)-based disruption and anomaly detection, and the original index-based flood-mapping approach behind `Index_Analysis.ipynb`.
-
 ---
 
 *No license has been added yet — until one is, standard copyright applies and the code is not licensed for reuse. Add a `LICENSE` file if you want to grant reuse rights explicitly.*
