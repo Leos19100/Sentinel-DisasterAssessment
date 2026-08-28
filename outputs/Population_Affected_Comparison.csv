@@ -1,0 +1,4 @@
+Mask,Population affected,% of ROI population
+Sentinel-2 (MNDWI),87586,8.08
+Sentinel-1 (VH),61934,5.71
+Fused (S1 OR S2),94375,8.71

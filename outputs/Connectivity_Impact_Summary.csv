@@ -1,0 +1,5 @@
+metric,value
+Nodes reachable before cut,10936.0
+Nodes reachable after cut,9924.0
+Newly isolated nodes,1012.0
+Isolated road length (km),1038.2

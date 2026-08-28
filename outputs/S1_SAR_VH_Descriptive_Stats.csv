@@ -1,0 +1,10 @@
+,S1 SAR VH (dB) (Pre-Flood),S1 SAR VH (dB) (During Flood)
+count,4000.0,4000.0
+mean,-14.53,-15.11
+std,1.84,2.58
+min,-27.67,-28.17
+25%,-15.08,-15.43
+50%,-14.37,-14.6
+75%,-13.69,-13.92
+max,-1.06,-3.55
+% Classified as Water,1.62,6.3
