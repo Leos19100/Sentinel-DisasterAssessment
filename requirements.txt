@@ -1,0 +1,10 @@
+earthengine-api
+geemap
+numpy
+pandas
+matplotlib
+statsmodels
+osmnx
+networkx
+geopandas
+shapely
